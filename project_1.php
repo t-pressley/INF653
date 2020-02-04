@@ -1,4 +1,9 @@
 <?php
+/*
+Taylor Pressley
+FHSU INF 653 VB
+2/3/2020
+*/
  if(isset($_GET['age' <= 18])) {
      echo "Hello, my name is " . $_GET['firstname'] . " " . $_GET['lastname'] . "." . "<br>" . "I am " . $_GET['age'] . "years old and I am not old enough to vote in the United States.";
 }
